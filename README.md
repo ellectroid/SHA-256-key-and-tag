@@ -7,6 +7,8 @@ Hash function:                             SHA-256
 Hash-based message authentication tag:     HMAC-SHA-256 
 Password-based key derivation function 2:  PBKDF2-HMAC-SHA-256
 
+Dependencies: NONE
+
 Special properties:
 HMAC & PBKDF2 require scratch buffer memory provided for them (memory use depends on length of inputs).
 Memory buffer requirements:
