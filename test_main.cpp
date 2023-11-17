@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : recreational_hash_sha256.cpp
-// Author      : me
-// Version     :
-// Copyright   : Your copymight notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 /* for fancy printing only */
 #include <iostream>
 #include <iomanip>
